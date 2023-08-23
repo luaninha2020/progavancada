@@ -22,7 +22,7 @@ public class Questao1 {
             sum += i;
         }
         
-        System.out.println("A soma dos números de 1 a " + N + " é: " + sum);
+        System.out.println("A soma dos números será de 1 a " + N + " é: " + sum);
         
         scanner.close();
     }
